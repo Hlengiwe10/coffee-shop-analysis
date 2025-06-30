@@ -1,0 +1,16 @@
+Project on analysing the Brightlight Coffee Shop Sales  to the CEO
+
+INTRODUCTION
+Ihave been presented with the dataset Bright Coffee Shop in Excel i then changed it to Csv file to be able to work with it on Snowflake codes
+
+OBJECTIVES
+According to my analysis ive realised that Coffee brings more revenue for the shop and more sales occurs in the morning and afternoon, less sales takes place during the night
+so to iprove their sales they need to do specials during night and also improve on their marketing strategies. High spenders buy mostly in the morning and low spenders in the afternoon 
+again theirspecials shouls take place in the afternoon to target the low spenders.
+
+TOOLS USED
+
+I used SQL on Snowflake after changing my Excel file to Csv then aggregated my data and took my aggregated data to excel to create pivot tables and took my visuals to Canva for presentation
+
+
+
